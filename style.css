@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 475px)
 {.wrapper {
-    font-size: 34px;
+    font-size: 30px;
     color: #fff;
     box-sizing: content-box;
     background-color: rgba(0, 0, 0, 0.5);
