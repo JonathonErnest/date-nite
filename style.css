@@ -59,6 +59,17 @@
         place-items: flex-start;
     
     }
+
+    .alt{
+        display: block;
+        height: 100%;
+        padding-left: 10px;
+        border: 1px solid orange;
+        animation: spin_words 6s infinite;
+        color: orangered;
+        text-shadow: 0 0 20px red;
+        text-decoration: line-through white;
+    }
 }
 
 .words{
