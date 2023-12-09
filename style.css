@@ -10,7 +10,9 @@
 }
 
 .page{
-    /* background-color: #0e6ffc; */
+    background: url("https://images.unsplash.com/photo-1513279922550-250c2129b13a?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGF0ZSUyMG5pZ2h0fGVufDB8fDB8fHww");
+    background-position: center;
+    background-size: cover;
     height: 100vh;
     display: grid;
     place-items: center;
@@ -20,7 +22,7 @@
 .wrapper{
     color: #fff;
     box-sizing: content-box;
-    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.5);
     height: 70px;
     padding: 50px 30px;
     display: flex;
